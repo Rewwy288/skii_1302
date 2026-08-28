@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2771073959209828379}
   - component: {fileID: 2687895550652660754}
   - component: {fileID: 2512332645406460962}
-  - component: {fileID: 4876936393160149515}
+  - component: {fileID: 46929794487037705}
   m_Layer: 0
   m_Name: Flag
   m_TagString: Untagged
@@ -114,7 +114,7 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &4876936393160149515
+--- !u!114 &46929794487037705
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
